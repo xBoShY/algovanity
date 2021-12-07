@@ -2,7 +2,7 @@ AlgoVanity generates an Algorand Account where the prefix for the account addres
 
 ## Build with docker
 ```bash
-$ docker build . -t github.com/xboshy/algovanity
+$ docker build . -t xboshy/algovanity
 ```
 
 ## Run docker container
